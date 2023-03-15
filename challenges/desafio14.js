@@ -1,9 +1,4 @@
-db.produtos.updateMany(
-  { ingredientes: { $in: ["picles"] } },
-  { $push: { valoresNutricionais: { $each: [], $slice: 3 } } },
-);
-
 db.produtos.find(
   { ingredientes: "picles" },
-  { nome: 1, ingredientes: 1, valoresNutricionais: 1, _id: 0 },
+  { _id: 0, nome: 1, ingredientes: 1, valoresNutricionais: { $slice: [0, 3] } },
 );
