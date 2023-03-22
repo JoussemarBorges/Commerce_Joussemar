@@ -1,13 +1,5 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto MongoDB Commerce
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Esse foi um projeto desenvolvido na Trybe para aplicar os conceitos aprendidos sobre o banco de dados NoSQL MongoDB. Através do método Update e usando operadores desde os mais simples a um pouco mais complexos, foi possível alterar documentos de uma coleção que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas. Foi um projeto bem interesante e ao mesmo tempo divertido de se fazer.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
